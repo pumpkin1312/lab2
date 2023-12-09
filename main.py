@@ -4,5 +4,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 <<<<<<< HEAD
     print('hellooo')
 =======
-    print('hello0')
+    print('hello0ud')
 >>>>>>> ba11d4f (doing stuff)
